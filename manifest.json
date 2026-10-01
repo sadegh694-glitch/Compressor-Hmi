@@ -1,0 +1,19 @@
+{
+  "name": "Chlorine Compressor HMI",
+  "short_name": "Chlorine HMI",
+  "description": "Interactive training simulator for chlorine compressor operation.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#141a1e",
+  "theme_color": "#141a1e",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
